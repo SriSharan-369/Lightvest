@@ -8,3 +8,15 @@ Scope:
 
 The LightVest offers a solution to increase cyclist visibility and safety on the road, particularly during the night. With its innovative features, such as programmable LEDs and hands-free turn signals, the vest provides a feasible and efficient solution to the problem of life-threatening accidents caused by a lack of visibility.
 
+Features:
+
+A lightweight Weatherproof LED Vest (with IP67 Rated LEDs)
+Turn Signal’s –  LEDs
+Remote to control the lights 
+A Bike mount to attach to your Bike
+ON/OFF Switch Button
+Smart Mode – Send Data and track your Journey by Phone
+
+Achievement:
+
+Top 10 in Project Day conducted by SRM RMP 2023
