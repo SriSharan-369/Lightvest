@@ -10,11 +10,11 @@ The LightVest offers a solution to increase cyclist visibility and safety on the
 
 Features:
 
--> A lightweight Weatherproof LED Vest (with IP67 Rated LEDs) 
--> Turn Signal’s –  LEDs       
--> Remote to control the lights        
--> A Bike mount to attach to your Bike
--> ON/OFF Switch Button
+-> A lightweight Weatherproof LED Vest (with IP67 Rated LEDs)                                               
+-> Turn Signal’s –  LEDs                                               
+-> Remote to control the lights                                                
+-> A Bike mount to attach to your Bike                                  
+-> ON/OFF Switch Button                                   
 -> Smart Mode – Send Data and track your Journey by Phone
 
 Achievement:
